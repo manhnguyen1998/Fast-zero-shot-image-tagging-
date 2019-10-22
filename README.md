@@ -6,8 +6,8 @@ Image tagging with unseen tags project using Fast zero shot learning
 https://drive.google.com/open?id=176X3Siy-x_PW8gJmX1aC2wve44rZOzIt
 
 # Install requirement
-pip install virtualenv
-virtualenv -p python3 kerasenv
-source kerasenv/bin/activate
-pip3 install -r requirements.txt
+pip install virtualenv \n
+virtualenv -p python3 kerasenv \n
+source kerasenv/bin/activate \n
+pip3 install -r requirements.txt \n
 pip3 main.py
