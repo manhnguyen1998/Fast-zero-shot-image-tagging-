@@ -1,0 +1,7 @@
+h5py
+keras
+flask
+tensorflow==1.13.1
+Pillow
+urllib3
+wtforms
